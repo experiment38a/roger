@@ -1,0 +1,4 @@
+baseURL = 'https://roger.wouters.io'
+languageCode = 'en-us'
+title = 'Roger Wouters'
+theme = 'ananke'
