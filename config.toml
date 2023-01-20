@@ -1,4 +1,15 @@
 baseURL = 'https://roger.wouters.io'
-languageCode = 'en-us'
+defaultContentLanguage = 'nl'
 title = 'Roger Wouters'
 theme = 'ananke'
+[languages]
+  [languages.nl]
+    weight = 1
+  [languages.en]
+    weight = 1
+
+[menu]
+[[menu.main]]
+  identifier = 'geboortelijst'
+  name = 'geboortelijst'
+  url = 'https://www.blabloom.com/nl/lijstje/rqet/#birthlist'
