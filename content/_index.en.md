@@ -7,6 +7,10 @@ cascade:
   featured_image: '/images/roger.png'
 ---
 
-This card is made of growing paper. Plant the growing paper in the garden in a sunny spot preferably in April or May. First soak the card overnight in lukewarm water. If you sow them in September or October you will get flowers in the spring and summer after that. The seeds then go into dormancy in winter and only germinate when the weather is good enough.
+The birth card is made of growing paper. 
+1. Plant the growing paper in the garden in a sunny spot preferably in April or May. 
+2. First soak the card overnight in lukewarm water. 
+
+If you sow them in September or October you will get flowers in the spring and summer after that. The seeds then go into dormancy in winter and only germinate when the weather is good enough.
 
 [More detailed instructions: bee and butterfly mix](https://www.growingpaper.nl/en/about/let-it-sprout)
