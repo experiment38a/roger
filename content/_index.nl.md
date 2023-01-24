@@ -7,7 +7,7 @@ cascade:
   featured_image: '/images/roger.png'
 ---
 
-Het geboortekaartje is gemaakt uit groeipapier. 
+Zowel het geboortekaartje als de enveloppe zijn gemaakt uit groeipapier. Gooi deze niet gewoon weg, maar plant ons! Zo is de wereld voor onze kleine Roger net iets kleurrijker!
 1. Het  groeipapier plant je in de tuin op een zonnige plek bij voorkeur in april of mei. 
 2. Laat het kaartje eerst een nachtje weken in lauw water. 
 

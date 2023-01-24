@@ -7,7 +7,7 @@ cascade:
   featured_image: '/images/roger.png'
 ---
 
-The birth card is made of growing paper. 
+The birth card and enveloppe are made out of growing paper. Don't just throw us away but plant us. This way the world for our little Roger becomes a bit more colorfull.
 1. Plant the growing paper in the garden in a sunny spot preferably in April or May. 
 2. First soak the card overnight in lukewarm water. 
 
